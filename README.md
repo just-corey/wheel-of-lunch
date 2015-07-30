@@ -1,4 +1,4 @@
-#Wheel of Lunch
+#Wheel of Lunch v1.0.0
 Wheel of Lunch is a website which determines where a user should go for lunch. The site utilises HTML5 to draw a wheel of a collection of local restaurants which is obtained from a custom RESTful API and Google Places.
 
 [Click here to view demo.](http://UsainBloot.github.io/wheel-of-lunch)
@@ -20,7 +20,7 @@ When a user is in a rural area and the wheel can not find a suitable number of p
 
 ![Search radius increments](http://i.imgur.com/8YYuZlg.png "Search radius increments")
 
-Increment | Search Radius 
+Increment | Search Radius
 --- | ---
 1 | 300
 2 | 400
@@ -40,7 +40,7 @@ Increment | Search Radius
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Jack Palmer
+Copyright (c) 2015 Jack Palmer
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
